@@ -1,0 +1,177 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.code{
+    font-size: 1.7rem;
+}
+.code1{
+    font-size: 1.1rem;
+}
+.picture{
+    background-image: url(./pexels-photo-132037.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 38rem;
+    width: 100%;
+    border: none;
+}
+.we{
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 8rem;
+}
+.this{
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+.read{
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn11{
+    color: white;
+    background: white;
+    height: 3rem;
+    width: 10rem;
+    background: transparent;
+    font-weight: bold;
+    border: 2px solid white;
+}
+.btn11:hover{
+    background: blue;
+    color: white;
+}
+.web{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.cam{
+    font-size: 10rem;
+    text-align: center;
+    
+}
+.box:hover{
+    background-color: rgba(133, 126, 126, 0.74);
+    color: white;
+}
+
+.img{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 30px;
+    margin: -1.5rem 0 0 12.5rem;
+}
+.rakib{
+    font-size: 1.3rem;
+}
+.only{
+    margin-top: -.8rem;
+}
+.side{
+    
+}
+.con{
+    
+    
+}
+.bor:hover{
+    background-color: rgba(20, 50, 218, 0.356);
+    color: white; 
+}
+.nawaz{
+    border-bottom: 2px solid black;
+    
+}
+.nawaz:hover{
+    background-color: rgba(133, 126, 126, 0.74);
+    color: white;
+}
+.icon{
+    font-size: 1.5rem;
+    
+}
+
+.contact{
+    text-align: center;
+    background-color: transparent;
+    border-radius: 0px 40px 0px 40px;
+    box-shadow: 2px 2px 50px 3px black;
+}
+.form{
+    background-image: url(./hill.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-control{
+    background-color: rgb(243, 247, 211);
+    margin: 1rem ;
+}
+.trans{
+    margin: 0rem 4rem 4rem 4rem;
+}
+.form-control :placeholder{
+    color: white
+}
+.img1{
+    height: 5rem;
+    width: 5rem;
+}
+.pro{
+    font-weight: bold;
+    margin: -5rem 0 0 7rem;
+}
+.theme{
+    text-align: left;
+    margin: 0rem 0 0 7rem;
+}
+.img2{
+    height: 7rem;
+    width: 7rem;
+   border: 1px solid white;
+}
+
+/* Zoom In #1 */
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+.chil{
+    background-color: transparent;
+    height: 100px;
+    width: 150px;
+   
+}
+
+.sadia{
+    border-top: 3px solid white;
+}
+.list{
+    list-style: none;
+}
+.btn111{
+    color: white;
+    background: white;
+    height: 2rem;
+    width: 7rem;
+    background: transparent;
+    font-weight: bold;
+    border: 2px solid white;
+    
+    text-align: center;
+}
+.btn111:hover{
+    background: red;
+    color: white;
+}
